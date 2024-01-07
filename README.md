@@ -2,9 +2,13 @@
 Today I am excited to share my Project Report on HR Analytics for AtliQ Hardware. Project Overview: In this challenging project, HR manager provides us data of attendance of 3 months of 2022 in the form of Excel sheets and she wants some insights from this data. Now, as a data analyst, it is most important for me to listen and try to understand the requirements. HR manager requirements are as follows:
 
 1:The working preference of people between WFH and WFO?
+
 2:The percentage of Sick leave to monitor employee wellness?
+
 3:How much percent of people are present on a given week or a month?
+
 4:Which day in a week when most of the people are present so that they can plan an event on that day?
+
 5:The pattern of sick leave so if there is a situation of epidemic or flu, they can do proper precaution or special measure.
 
 So, In order to achieve that requirements I follow some steps:
