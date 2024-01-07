@@ -14,14 +14,21 @@ Today I am excited to share my Project Report on HR Analytics for AtliQ Hardware
 So, In order to achieve that requirements I follow some steps:
 
 1:Data Cleaning and Data Transformation using power query editor: Combine the data from multiple sheets that has different column names, Transform all the dates in different columns to one column, Created custom columns etc.
+
 2:Build KPI's: I used to build key performance indicators like Presence %, WFH %, SL % using different formulas.
+
 3:Formulas used: During the process of creating measures I frequently used Switch, Divide, Calculate, Sum formulas.
+
 4:Charts I have used area chart and trend line to show the insights clearly.
 
 Key Insights Drawn:
 
 1:Presence % by month is declining so, It may be due to summer season.
+
 2:WFH % of working people is increasing.
+
 3:SL % is little bit increasing.
+
 4:Most of the employees prefer WFH on Friday.
+
 5:Most of the employees are present on Monday.
